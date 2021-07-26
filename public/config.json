@@ -33,7 +33,7 @@
     "icon": "public/LINEアイコン.png",
     "category": "message",
     "iconSmall": null,
-    "original_icon": "icon.png",
+    "original_icon": "LINEアイコン.png",
     "isConfigured": true
   },
   "editable": true,
