@@ -30,7 +30,7 @@
     }
   },
   "metaData": {
-    "icon": "jb-line-custom-activity/public/LINEアイコン.png",
+    "icon": "images/LINEアイコン.png",
     "category": "message",
     "iconSmall": null,
     "original_icon": "icon.png",
