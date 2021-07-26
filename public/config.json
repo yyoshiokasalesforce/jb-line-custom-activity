@@ -13,7 +13,7 @@
       "outArguments": [
             { "offer": "" }
       ],
-      "url": "https://cgl5og4fm8.execute-api.us-east-2.amazonaws.com/sfmc/nbo",
+      "url": "https://jb-line-custom-activity.herokuapp.com/",
             "body": "", 
             "header": "", 
             "format": "json",
@@ -23,7 +23,7 @@
   },
   "configurationArguments": {
     "publish": {
-      "url": "https://cgl5og4fm8.execute-api.us-east-2.amazonaws.com/sfmc/nbo",
+      "url": "https://jb-line-custom-activity.herokuapp.com/",
             "verb": "POST",
             "body": "", 
             "useJwt": false      
