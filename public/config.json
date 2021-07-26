@@ -30,7 +30,7 @@
     }
   },
   "metaData": {
-    "icon": "images/LINEアイコン.png",
+    "icon": "public/LINEアイコン.png",
     "category": "message",
     "iconSmall": null,
     "original_icon": "icon.png",
