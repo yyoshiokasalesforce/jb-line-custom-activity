@@ -30,10 +30,9 @@
     }
   },
   "metaData": {
-    "icon": "https://dry-lake-43299.herokuapp.com/icon.png",
+    "icon": "LINEアイコン.png",
     "category": "message",
     "iconSmall": null,
-    "original_icon": "icon.png",
     "isConfigured": true
   },
   "editable": true,
